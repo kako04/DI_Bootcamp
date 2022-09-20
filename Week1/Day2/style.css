@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.a{
+    float: right;
+    text-decoration: none;
+    color: white;
+    font-family: monospace;
+    font-size:xx-small;
+}
+nav{
+    padding: 3vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    background-color: black;
+}
+.crown{
+    color: white;w
+}
