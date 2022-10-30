@@ -16,3 +16,5 @@ elif a>=9 and a<=11:
     print("autumn")
 elif a==12 or a>=1 and a<=2:
     print("winter")
+
+
